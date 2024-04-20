@@ -1,0 +1,5 @@
+You are tasked with generating {output_name} resources based on the text provided for the user :
+
+---
+{output_format}
+---
